@@ -1,4 +1,8 @@
-layout_spectrum: 0.9301075
+favicon: null
+cta:
+  bucket: null
+  version: null
+  domain: null
 opengraph:
   image: null
   type: null
@@ -9,15 +13,15 @@ collections:
       number: 15
       paginate: true
       navigable: true
-    permalink:
-      path: '/:title/'
     feed:
       path: /rss.xml
       format: rss
       number: 10
+    permalink:
+      path: '/:title/'
 purpose: []
 color:
-  saturation: 0.2114695
+  saturation: 0.4318996
   brandStrength: 0.3100990601815283
   lightness: 0.08781362
   brandColors:
@@ -26,15 +30,11 @@ color:
     - '#3B407C'
     - '#547AB1'
     - '#CEAFC0'
-  rhythmicContrast: 0.2759857
+  rhythmicContrast: 0.1702509
 typography_spectrum: 0.02967834728769958
-cta:
-  bucket: null
-  version: null
-  domain: null
+layout_spectrum: 0.9301075
 analytics:
   twitter: null
   google: null
   facebook: null
-favicon: null
 name: RLab
