@@ -1,5 +1,4 @@
-favicon: null
-name: RLab
+layout_spectrum: 0.9301075
 opengraph:
   image: null
   type: null
@@ -18,23 +17,24 @@ collections:
       number: 10
 purpose: []
 color:
-  saturation: 0.6630919072777033
+  saturation: 0.2114695
   brandStrength: 0.3100990601815283
-  rhythmicContrast: 0.6911411772016436
+  lightness: 0.08781362
   brandColors:
     - '#71A7FE'
     - '#399AE7'
     - '#3B407C'
     - '#547AB1'
     - '#CEAFC0'
-  lightness: 0.9148420095443726
+  rhythmicContrast: 0.2759857
 typography_spectrum: 0.02967834728769958
 cta:
   bucket: null
   version: null
   domain: null
-layout_spectrum: 0.9301075
 analytics:
   twitter: null
   google: null
   facebook: null
+favicon: null
+name: RLab
