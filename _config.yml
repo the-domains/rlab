@@ -1,8 +1,7 @@
 name: RLab
-opengraph:
-  image: null
-  type: null
-  appId: null
+favicon: null
+layout_spectrum: 0.7060932
+typography_spectrum: 0.02967834728769958
 collections:
   - index:
       path: /
@@ -15,26 +14,27 @@ collections:
       path: /rss.xml
       format: rss
       number: 10
-purpose: []
-color:
-  saturation: 0.7060932
-  brandStrength: 0.4892473
-  lightness: 0.2706093
-  brandColors:
-    - '#07060B'
-    - '#9F9981'
-    - '#F0EADA'
-    - '#786E53'
-    - '#36372F'
-  rhythmicContrast: 0.1702509
-typography_spectrum: 0.02967834728769958
 cta:
+  domain: null
   bucket: null
   version: null
-  domain: null
-layout_spectrum: 0.7060932
-favicon: null
 analytics:
-  twitter: null
   google: null
   facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#e9e9e9'
+    - '#afafaf'
+    - '#797979'
+    - '#111111'
+    - '#575757'
+  brandStrength: 0.4892473
+  lightness: 0.2706093
+  saturation: 0.7060932
+  rhythmicContrast: 0.1702509
+purpose: []
