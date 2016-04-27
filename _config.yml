@@ -1,0 +1,28 @@
+name: RLab
+favicon: null
+layout_spectrum: 0.7616240263450891
+typography_spectrum: 0.02967834728769958
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#71A7FE'
+    - '#399AE7'
+    - '#3B407C'
+    - '#547AB1'
+    - '#CEAFC0'
+  brandStrength: 0.31009906018152833
+  lightness: 0.9148420095443726
+  saturation: 0.6630919072777033
+  rhythmicContrast: 0.6911411772016436
+purpose: []
